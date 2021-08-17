@@ -1,5 +1,5 @@
 # Estudio-CIS-3326
-Repasando algunas cuestiones del Barómetro CIS Junio
+Analizando algunas cuestiones del Barómetro CIS Junio
 
 - De media, son los votantes de VOX y 
 aquellos que prefieren a Ayuso como presidenta del Gobierno,
