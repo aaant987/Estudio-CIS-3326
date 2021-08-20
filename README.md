@@ -9,7 +9,6 @@ De media, están por encima de los dos puntos en el deterioro de la democracia a
 ### Revisión por preferencia de presidente del Gobierno
 De media, el grupo de aquellos que prefieren como presidente del Gobierno a Ayuso, Abasacal y Casado, consideran que la democracia en la España de hoy, ha caído más de dos puntos con respecto a hace diez años. No así lo considera el grupo de aquellos que prefieren a Yolanda Díaz o al actual presidente Sánchez, únicos grupos para los que, de media, la democracia ha mejorado sensiblemente.
 
-
 ## Percepción del número de inmigrantes en España y su grado de positivad
 - En términos generales, la percepción del nº de inmigrantes en España
 es más elevada y se concibe de forma más negativa conforme aumenta 
